@@ -69,7 +69,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srianjani1234&layout=compact&theme=radical" />
