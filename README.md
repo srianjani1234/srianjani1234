@@ -1,8 +1,12 @@
 
 
+![logo](https://github.com/srianjani1234/srianjani1234/blob/952280d8eb9e0f7ebb556e5ca410ae343b218418/programming-code-coding-or-hacker-background-vector%20(1).jpg)
 
+<img align="right" alt="coding" width="300" src="image.png">
+<br><br>
 <!-- Fancy Animated Background Banner -->
 <p align="center">
+ 
 </p>
 
 
@@ -11,7 +15,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Venna+Sri+Anjani!;Future+Full-Stack+Developer;Python+%7C+Web+%7C+Databases+Explorer;&center=true&size=30&color=ff69b4&width=600" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Turning Ideas Into Code | Building Tomorrow's Tech Today</h3>
+<h3 align="center">🚀 Turning Ideas Into Code | Building Tomorrow's Tech Today</h3> 
+<br> <br> <br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srianjani1234&label=Profile%20views&color=fc03d7&style=flat-square" alt="Profile views" />
