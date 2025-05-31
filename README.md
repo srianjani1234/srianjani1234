@@ -1,7 +1,11 @@
 
+
+
 <!-- Fancy Animated Background Banner -->
 <p align="center">
 </p>
+
+
 
 <h1 align="center" style="color:#ff69b4;">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Venna+Sri+Anjani!;Future+Full-Stack+Developer;Python+%7C+Web+%7C+Databases+Explorer;&center=true&size=30&color=ff69b4&width=600" alt="Typing SVG" />
