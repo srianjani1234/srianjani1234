@@ -2,7 +2,6 @@
 
 ![logo](https://github.com/srianjani1234/srianjani1234/blob/952280d8eb9e0f7ebb556e5ca410ae343b218418/programming-code-coding-or-hacker-background-vector%20(1).jpg)
 
-<img align="right" alt="coding" width="300" src="image.png">
 <br><br>
 <!-- Fancy Animated Background Banner -->
 <p align="center">
