@@ -33,7 +33,7 @@
 
 ### 📄 My Resume
 
-🎓 [**Click here to view/download my resume**](https://github.com/srianjani1234/srianjani1234/raw/main/assets/srianjani_resume37.pdf)
+🎓 [**Click here to view/download my resume**](https://github.com/srianjani1234/srianjani1234/raw/main/srianjani_resume37.pdf)
 
 ---
 
