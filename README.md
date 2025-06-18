@@ -86,5 +86,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srianjani1234&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=srianjani1234&theme=radical" alt="GitHub Streak" />
 </p>
+
