@@ -20,7 +20,8 @@
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=srianjani1234">
-    <img src="https://github-profile-trophy.vercel.app/?username=srianjani1234&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+    "<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies"/>
+
   </a>
 </p>
 
@@ -85,5 +86,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srianjani1234&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srianjani1234&layout=compact&theme=radical" />
 </p>
